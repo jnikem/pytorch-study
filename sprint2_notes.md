@@ -12,8 +12,7 @@
 | loss | 10² → 10⁻³ (5자릿수 감소) |
 | 학습률 | 0.01 |
  
-![학습 곡선]((<img width="1600" height="571" alt="image" src="https://github.com/user-attachments/assets/47667cb6-5c1d-4425-8a70-4ba35bc97637" />
-)
+[학습 곡선](<img width="1600" height="571" alt="image" src="https://github.com/user-attachments/assets/47667cb6-5c1d-4425-8a70-4ba35bc97637" />
 )
  
 ---
