@@ -12,7 +12,8 @@
 | loss | 10² → 10⁻³ (5자릿수 감소) |
 | 학습률 | 0.01 |
  
-![학습 곡선](images/sprint2_curve.png)
+![학습 곡선](![Uploading image.png…]()
+)
  
 ---
  
